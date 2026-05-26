@@ -63,13 +63,11 @@ endmodule
 ```
 
 **RTL Schematic**
-![alt text](<Screenshot 2026-05-21 142155.png>)
-**full subtractor**
-![alt text](<Screenshot 2026-05-21 142209.png>)
+<img width="303" height="315" alt="image" src="https://github.com/user-attachments/assets/144334cd-eca7-460a-aa52-f03bd843f75e" />
 **Output Timing Waveform**
-![alt text](<Screenshot 2026-05-21 142226-1.png>)
-**Full Subtractor**
-![alt text](<Screenshot 2026-05-21 142246.png>)
+
+<img width="912" height="477" alt="image" src="https://github.com/user-attachments/assets/9d27bd81-1530-4128-be72-3a6b996506dc" />
+
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
