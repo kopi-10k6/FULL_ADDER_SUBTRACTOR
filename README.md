@@ -61,7 +61,7 @@ assign dif = x^y^z;
 assign bor = ~x&z | ~x&y | y&z;
 endmodule
 ```
-![alt text](<Screenshot 2026-05-21 142140.png>)
+
 **RTL Schematic**
 ![alt text](<Screenshot 2026-05-21 142155.png>)
 **full subtractor**
